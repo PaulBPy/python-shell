@@ -1,0 +1,5 @@
+import numpy as ny
+import matplotlib.pyplot as pyplot
+
+x=np.array([1,4,2,9,2,1])
+print(x)
